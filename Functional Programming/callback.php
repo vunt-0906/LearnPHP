@@ -15,3 +15,5 @@ function kickUser($function){
 
 // function getUser is callable
 kickUser('getUser');
+
+
